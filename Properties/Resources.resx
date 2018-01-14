@@ -445,16 +445,16 @@ Control-F - Temp screen\par
 Control-T - Blind connect\par
 \par
 FlightData\par
-1 - tab 1\par
-2 - tab 2\par
-3 - tab 3\par
-4 - tab 4\par
-5 - tab 5\par
-6 - tab 6\par
-7 - tab 7\par
-8 - tab 8\par
-9 - tab 9\par
-0 - tab 10\par
+1 - Quick\par
+2 - Actions\par
+3 - PreFlight\par
+4 - Gauges\par
+5 - Status\par
+6 - Servo\par
+7 - Telemetry Logs\par
+8 - DataFlash Logs\par
+9 - Scripts\par
+10 - Messages\par
 \par
 FlightPlanner\par
 Control-Z - undo\par
